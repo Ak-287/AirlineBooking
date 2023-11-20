@@ -1,1 +1,1 @@
-app/admin.html
+app/Admin.html
